@@ -1,0 +1,12 @@
+Package: com.bigdon.chamarootless
+Name: chamarootless
+Version: 0.0.1-10+debug
+Architecture: iphoneos-arm64
+Description: CHAMA
+Author: BigDon
+Section: Tweaks
+Filename: debs/com.bigdon.chamarootless_0.0.1-10+debug_iphoneos-arm64.deb
+Size: 3228
+MD5sum: d001f1a2b6f4a1b360697cb932683c38
+SHA1: 9612e0fa9c1823bb345e536f6d8bea11fcffb8ea
+SHA256: 8977172f9afc3be1c0285f5f3bbcb2aa334d06295b6b9aeb107aa26367f5a999
