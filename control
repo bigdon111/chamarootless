@@ -1,9 +1,9 @@
 Package: com.bigdon.chamarootless
 Name: chamarootless
-Version: 0.0.1
+Version: 0.0.1-11
 Architecture: iphoneos-arm64
 Description: Change app labels
-Maintainer: Your Name
-Author: Your Name
+Maintainer: bigdon
+Author: bigdon
 Section: Tweaks
 Depends: firmware (>= 16.0), ellekit
