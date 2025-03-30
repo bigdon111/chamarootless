@@ -1,4 +1,3 @@
-#import <substrate.h>
 #import <UIKit/UIKit.h>
 #import <substrate.h> // Added this import for MSHookIvar
 

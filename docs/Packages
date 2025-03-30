@@ -2,13 +2,13 @@ Package: com.bigdon.chamarootless
 Version: 0.0.1-12+debug
 Architecture: iphoneos-arm64
 Maintainer: bigdon
-Installed-Size: 76
+Installed-Size: 24
 Depends: firmware (>= 16.0), ellekit
 Filename: ./debs/com.bigdon.chamarootless_0.0.1-12+debug_iphoneos-arm64.deb
-Size: 6474
-MD5sum: 8ac7e3f9d130d185f04786370b55d6ce
-SHA1: ddf475787b0f86eb768d902a45b5287d71e561bb
-SHA256: 6c3a1eee9423d0fb7ab3722973c95732719bfdf6b64031712b5652f6b06ed816
+Size: 1730
+MD5sum: 5f7ca90d708c6576d89ba1c53bed9102
+SHA1: 109e1288674db9196a3443b0671f4702715b0ef2
+SHA256: 2e462c9e264aacd3635cda3a777ddaaa451972be3ed97329cf70645f579b07f6
 Section: Tweaks
 Description: Change app labels
 Author: bigdon
